@@ -18,3 +18,5 @@ $ git submodule update --init --recursive
 Results will not be perfect and vary depending on model, weights and other settings. We made a table output below main image to show results of different combos - this isn't fully finished yet. Final goal would be to add a DB and have some preprocessing (we already do but very generic, should be image specific), weight adjustment etc. But ATM it was good enough for our purpose - you could `easily wrap an Android App` around this server-side functionality, and maybe, just maybe, people would `send you images` with `"things" to count` XD
 
 ![Example Result](https://github.com/user-attachments/assets/9b0d75b7-d5d7-40d1-a4cc-541a210329ee)
+
+"shhhtt they're here..." **Knock Knock Knock Open Up Now!** "Remember us! Ouch not this. Please stop. No, turn it off, turn it oooohhhh........"
