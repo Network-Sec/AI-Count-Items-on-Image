@@ -1,5 +1,5 @@
 # Count Items on Image using AI / ML model
-Modern AI / ML based counter for items in an image
+Modern AI / ML based counter for items in an image. Inspired by the **Intelligence Community**. 
 
 As usual, some TODOs remaining, recognition isn't yet 100%, that is highly `model` dependend. 
 
