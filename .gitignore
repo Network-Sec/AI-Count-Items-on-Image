@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.venv/
+ENV/
+
+# Virtual Environment
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Upload directories
+uploads*/
+!uploads/
+
+# Large model files (over GitHub's 100MB limit)
+yolov7-d6.pt
+
+# IDE
+.vscode/
+.idea/
+
+# Exclude other uploads variants
+uploads2/
+uploads3/
+uploads4/
+uploads5/
