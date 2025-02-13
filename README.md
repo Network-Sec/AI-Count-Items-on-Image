@@ -19,4 +19,3 @@ Results will not be perfect and vary depending on model, weights and other setti
 
 ![Example Result](https://github.com/user-attachments/assets/9b0d75b7-d5d7-40d1-a4cc-541a210329ee)
 
-"shhhtt they're here..." **Knock Knock Knock Open Up Now!** "Remember us! Ouch not this. Please stop. No, turn it off, turn it oooohhhh........"
