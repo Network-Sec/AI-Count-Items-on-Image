@@ -24,7 +24,12 @@ But ATM it was good enough for our purpose - you could `easily wrap an Android A
 
 ...and maybe, just maybe, people would `send you images` with `"things" to count` XD
 
+## V2 - WIP
+Not yet released, current version screenshot below
 
+![AI_Count_WIP_V2](https://github.com/user-attachments/assets/a0207f45-2975-4702-8fb9-cc1d334667ec)
+
+## Current Version Screenshot
 ![Example Result](https://github.com/user-attachments/assets/9b0d75b7-d5d7-40d1-a4cc-541a210329ee)
 
 Inspired by the **Intelligence Community**. 
